@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HsM+rQBZr2QMnEZyRZC7kqyJimBcf9fRsIPC5OhJ67KunPtEqvAqGiyIES0ExqyLTjtjHo0W1iPj/CHt3tS9VQ==",
+  "dgSpecHash": "dut7rUHRJZLuRraJM2kxr/zi7GhlowhfLYNx08K6QFn/ib5/ILEzEadVaSkXQZ3sQVcrmxSzvO5IolMBCzFIDA==",
   "success": true,
   "projectFilePath": "/Users/jonathanalele/BlazorPizzaStoreApp/BlazingPizza/BlazingPizza.csproj",
   "expectedPackageFiles": [
-    "/Users/jonathanalele/.nuget/packages/microsoft.netcore.app.ref/7.0.18/microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
-    "/Users/jonathanalele/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.18/microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512",
-    "/Users/jonathanalele/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.18/microsoft.netcore.app.host.osx-x64.7.0.18.nupkg.sha512"
+    "/Users/jonathanalele/.nuget/packages/microsoft.netcore.app.ref/6.0.29/microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/jonathanalele/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "/Users/jonathanalele/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.29/microsoft.netcore.app.host.osx-x64.6.0.29.nupkg.sha512"
   ],
   "logs": []
 }
